@@ -1,2 +1,13 @@
-# HR-Interactive-Dashboard
-Developed an interactive HR dashboard in Excel to analyze employee data, including attendance, performance metrics, and attrition trends. Performed data cleaning, transformation, and aggregation to ensure accurate insights, and created pivot tables, charts, and slicers to visualize key metrics. 
+# HR Interactive Dashboard
+
+## Description
+An interactive HR dashboard built in Excel to analyze employee attendance, performance, and attrition trends. Enables data-driven HR decisions through visualizations and metrics tracking.
+
+## Tools Used
+- Microsoft Excel
+- Pivot tables, charts, slicers, formulas
+
+## Features
+- Attendance and performance analysis
+- Attrition trend visualization
+- Interactive filters using slicers
